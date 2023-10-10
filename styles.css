@@ -473,7 +473,7 @@ html{
     display: flex;
     flex-direction: column;
     gap:2rem;
-    /* width: 50%; */
+    width: 50%;
 }
 
 .skills-heading{
@@ -652,7 +652,7 @@ textarea{
     
     .hammer{
         /* display: block; */
-        opacity: 1;
+        /* opacity: 1; */
         /* position: absolute; */
     }
     .container{
