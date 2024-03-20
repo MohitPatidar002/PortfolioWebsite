@@ -349,12 +349,12 @@ html{
   }
 
 #project-card-1{
-    background-image: url(./projectImage/Project1.png);
+    background-image: url(./projectImage/Project2.png);
   }
 
 #project-card-2{
     margin-left:120px;
-    background-image: url(./projectImage/Project2.png);
+    background-image: url(./projectImage/Project1.png);
   }
 
 #project-card-3{
